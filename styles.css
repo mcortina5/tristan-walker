@@ -1,0 +1,23 @@
+body{
+ background-image: url(https://cdn.nrffoundation.org/sites/default/files/2018-08/TW-16_0.jpg);
+ background-size: cover;
+}
+h1{
+   background-color: rgb(252, 242, 233);
+   margin-left: 1000px;
+   margin-right: 1000px;
+   font-size: 70px;
+}
+h2{
+    color: rgb(59, 49, 41);
+    background-color: rgba(202, 187, 179, 0.699);
+    margin-left: 300px;
+    margin-right: 300px;
+}
+h3{
+    background-color: rgb(250, 242, 236);
+}
+table, th, td {
+    border: 1px solid black;
+    background-color: rgb(245, 243, 238);
+}
